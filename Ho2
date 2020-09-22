@@ -1,0 +1,34 @@
+Abstraction
+  displaying the essential information, an hiding the rest.
+Attributes / Properties
+  allows you to specify additional information to the compiler to enforce constraints
+Class
+  It is a user-defined data type
+Class Variable
+  name given to a memory location
+Composition 
+  building complex objects from simpler ones
+Encapsulation
+  combining data members and functions in a single unit
+Friends
+  A non-member function can access the private and protected members of a class if it is declared a friend of that class
+Inheritance
+  creating new classes which retain characteristics of the base class. 
+Instance Variable
+  a variable defined in a class for which each instantiated object of the class has a separate copy
+Member Variable
+   variable that is associated with a specific object
+Method
+   procedure or function in OOPs Concepts
+Multiple Inheritance
+  a class can inherit from more than one classes. 
+Object
+  instances of class, which holds the data variables declared in class and the member functions work on these class objects
+Overloading
+  Function overloading is a feature in C++ where two or more functions can have the same name but different parameters
+Polymorphism
+  all to a member function will cause a different function to be executed depending on the type of object that invokes the function
+Public / Private / Protected
+  is part of a class, public any function can accese the information. private only funtions apart of the class can acceese it. protected any can accese it but not change it.
+Virtual
+  
