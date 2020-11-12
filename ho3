@@ -1,5 +1,0 @@
-## H03 - fixing bubble swort methods
-### Timothy Lockhart
-### Description:
-
-The code in the folder was fixing a bubble sort method that did not work. we should have used the built in vector swap, but we didnt.
